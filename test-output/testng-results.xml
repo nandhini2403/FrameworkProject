@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-14T16:16:12 EST" name="Contact Us - Roicians" finished-at="2022-12-14T16:17:37 EST" duration-ms="85458">
+    <groups>
+    </groups>
+    <test started-at="2022-12-14T16:16:12 EST" name="TestNG" finished-at="2022-12-14T16:17:37 EST" duration-ms="85458">
+      <class name="testLayer.ContactusTest">
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testLayer.ContactusTest@6eda5c9]" started-at="2022-12-14T16:16:12 EST" name="initsetup" finished-at="2022-12-14T16:16:17 EST" duration-ms="5378" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="Title()[pri:1, instance:testLayer.ContactusTest@6eda5c9]" started-at="2022-12-14T16:16:17 EST" name="Title" finished-at="2022-12-14T16:16:17 EST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Title -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.ContactusTest@6eda5c9]" started-at="2022-12-14T16:16:17 EST" name="close" finished-at="2022-12-14T16:16:34 EST" duration-ms="16276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testLayer.ContactusTest@6eda5c9]" started-at="2022-12-14T16:16:34 EST" name="initsetup" finished-at="2022-12-14T16:16:39 EST" duration-ms="4525" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="contactus(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:testLayer.ContactusTest@6eda5c9]" started-at="2022-12-14T16:16:39 EST" name="contactus" data-provider="Details" finished-at="2022-12-14T16:16:39 EST" duration-ms="207" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Nandhini]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[nandhininataraaj@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[4.373443059E9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactus -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.ContactusTest@6eda5c9]" started-at="2022-12-14T16:16:39 EST" name="close" finished-at="2022-12-14T16:16:55 EST" duration-ms="16223" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testLayer.ContactusTest@6eda5c9]" started-at="2022-12-14T16:16:55 EST" name="initsetup" finished-at="2022-12-14T16:17:00 EST" duration-ms="4537" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="contactus(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:testLayer.ContactusTest@6eda5c9]" started-at="2022-12-14T16:17:00 EST" name="contactus" data-provider="Details" finished-at="2022-12-14T16:17:00 EST" duration-ms="202" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Neya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[nandhininataraaj@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[4.447358961E9]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactus -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.ContactusTest@6eda5c9]" started-at="2022-12-14T16:17:00 EST" name="close" finished-at="2022-12-14T16:17:16 EST" duration-ms="16279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="initsetup()[pri:0, instance:testLayer.ContactusTest@6eda5c9]" started-at="2022-12-14T16:17:16 EST" name="initsetup" finished-at="2022-12-14T16:17:21 EST" duration-ms="4855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initsetup -->
+        <test-method signature="contactus(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:testLayer.ContactusTest@6eda5c9]" started-at="2022-12-14T16:17:21 EST" name="contactus" data-provider="Details" finished-at="2022-12-14T16:17:21 EST" duration-ms="216" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Inba]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[nandhininataraaj@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1.23456789E8]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactus -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testLayer.ContactusTest@6eda5c9]" started-at="2022-12-14T16:17:21 EST" name="close" finished-at="2022-12-14T16:17:37 EST" duration-ms="16290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testLayer.ContactusTest -->
+    </test> <!-- TestNG -->
+  </suite> <!-- Contact Us - Roicians -->
+</testng-results>
